@@ -1,3 +1,4 @@
+![](icon.png)
 # alfred-darkmode
 An Alfred workflow to toggle Dark mode and Light mode on MacOS 10.10+.
 
