@@ -18,6 +18,6 @@ Open Alfred and trigger by:
 Or customise as suits you!
 
 ## Version history
-1.1 – qualified compatibility with 10.14. added hotkey trigger. updated icon.
+1.1 – qualified compatibility with 10.14. added hotkey trigger. updated icon. @jasonshanks
 
 1.0 – original release by @smpanaro
